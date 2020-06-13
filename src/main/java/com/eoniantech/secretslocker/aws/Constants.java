@@ -45,7 +45,7 @@ interface Constants {
     static final String BUCKET_NAME = "bucketName";
     static final String BUCKET_PATH = "bucketPath";
 
-    // Message Patters
+    // Message Patterns
     static final String FILE_DOES_NOT_EXIST_PATTERN 
             = "file does not exists: %s";
     static final String FILE_IS_NOT_READABLE_PATTERN 
